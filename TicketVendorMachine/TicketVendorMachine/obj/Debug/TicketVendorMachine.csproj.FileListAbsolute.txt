@@ -1,0 +1,12 @@
+C:\Users\ACER\Desktop\Code\SoftWare Tech\Lab1\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.exe.config
+C:\Users\ACER\Desktop\Code\SoftWare Tech\Lab1\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.exe
+C:\Users\ACER\Desktop\Code\SoftWare Tech\Lab1\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.pdb
+C:\Users\ACER\Desktop\Code\SoftWare Tech\Lab1\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Code\SoftWare Tech\Lab1\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Form1.resources
+C:\Users\ACER\Desktop\Code\SoftWare Tech\Lab1\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Properties.Resources.resources
+C:\Users\ACER\Desktop\Code\SoftWare Tech\Lab1\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Code\SoftWare Tech\Lab1\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Code\SoftWare Tech\Lab1\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.exe
+C:\Users\ACER\Desktop\Code\SoftWare Tech\Lab1\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.pdb
+C:\Users\ACER\Desktop\Code\SoftWare Tech\Lab1\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Form2.resources
+C:\Users\ACER\Desktop\Code\SoftWare Tech\Lab1\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Form3.resources
